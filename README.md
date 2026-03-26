@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Harsh Yadav 👋
+
+🎓 B.Tech CSE (AI & ML) Student  
+📍 First Year Student  
+
+💡 I am interested in Artificial Intelligence and Machine Learning.  
+🚀 Currently learning programming and building projects.  
+
+📫 Goal: To become a skilled AI/ML engineer.
 
 <!--
 **HarshYadav8332/HarshYadav8332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
